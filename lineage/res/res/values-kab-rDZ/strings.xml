@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2015 The CyanogenMod Project
-                   2017-2023 The LineageOS Project
+                   2017-2023 The GrandiOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">Anagraw n LineageOS</string>
+    <string name="lineageos_system_label">Anagraw n GrandiOS</string>
     <string name="permlab_modifyProfiles">snifel imaɣnuyen unagraw</string>
     <string name="permdesc_modifyProfiles">Sireg asnas ad-isnifel imaɣnuyen unagraw.</string>
     <string name="profileNameDefault">Prédéfini(e)</string>
@@ -34,9 +34,9 @@
     <string name="live_display_day">Ass</string>
     <string name="live_display_night">Iḍ</string>
     <string name="build_date">Azemz n usefsu</string>
-    <string name="lineage_api_level">Aswir n LineageOS API</string>
-    <string name="lineage_updates">Lqem n LineageOS</string>
-    <string name="lineage_version">Lqem n LineageOS</string>
+    <string name="lineage_api_level">Aswir n GrandiOS API</string>
+    <string name="lineage_updates">Lqem n GrandiOS</string>
+    <string name="lineage_version">Lqem n GrandiOS</string>
     <string name="unknown">Arussin</string>
     <string name="trust_feature_name">Trust</string>
 </resources>

@@ -26,7 +26,7 @@
     <instrumentation
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:targetPackage="org.lineageos.lineagesettings.tests"
-        android:label="Lineage Settings Provider Tests" />
+        android:label="Grandiose Settings Provider Tests" />
 
     <application>
         <uses-library android:name="android.test.runner" />
