@@ -5,15 +5,15 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">GrandiOS Sustav</string>
+    <string name="lineageos_system_label">BasedOS Sustav</string>
     <string name="permlab_modifyProfiles">izmijeni profile sustava</string>
     <string name="permdesc_modifyProfiles">Dopušta aplikaciji da izmijeni profile sustava.</string>
     <string name="permlab_useHardwareFramework">koristi hardware framework</string>
-    <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti Grandiose hardware framework.</string>
-    <string name="permlab_writeSettings">promijeni Grandiose postavke sigurnosti sustava</string>
-    <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava Grandiose.</string>
-    <string name="permlab_writeSecureSettings">promijeni Grandiose postavke sigurnosti sustava</string>
-    <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni Grandiose postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
+    <string name="permdesc_useHardwareFramework">Dopušta aplikaciji pristupiti BasedOS hardware framework.</string>
+    <string name="permlab_writeSettings">promijeni BasedOS postavke sigurnosti sustava</string>
+    <string name="permdesc_writeSettings">Dopušta aplikaciji da izmijeni postavke sustava BasedOS.</string>
+    <string name="permlab_writeSecureSettings">promijeni BasedOS postavke sigurnosti sustava</string>
+    <string name="permdesc_writeSecureSettings">Dopušta aplikaciji da promjeni BasedOS postavke sigurnosti sustava. Nije za korištenje kod normalnih aplikacija.</string>
     <string name="profileNameDefault">Zadano</string>
     <string name="profileNameWork">Posao</string>
     <string name="profileNameHome">Kuća</string>
@@ -52,9 +52,9 @@
     <string name="permlab_manageRemotePrefs">upravljanje udaljenim postavkama</string>
     <string name="permdesc_manageRemotePrefs">Omogućuje aplikaciji upravljanje udaljenim postavkama</string>
     <string name="build_date">Datum izdavanja</string>
-    <string name="lineage_api_level">GrandiOS API razina</string>
-    <string name="lineage_updates">GrandiOS ažuriranja</string>
-    <string name="lineage_version">GrandiOS verzija</string>
+    <string name="lineage_api_level">BasedOS API razina</string>
+    <string name="lineage_updates">BasedOS ažuriranja</string>
+    <string name="lineage_version">BasedOS verzija</string>
     <string name="unknown">Nepoznato</string>
     <string name="app_killed_message">Aplikacija je zaustavljena</string>
     <string name="kilobitspersecond_short">kb/s</string>

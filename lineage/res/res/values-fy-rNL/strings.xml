@@ -5,15 +5,15 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">GrandiOS-systeem</string>
+    <string name="lineageos_system_label">BasedOS-systeem</string>
     <string name="permlab_modifyProfiles">systeemprofilen wizigje</string>
     <string name="permdesc_modifyProfiles">Hjirmei kin de app systeemprofilen wizigje.</string>
     <string name="permlab_useHardwareFramework">hardware-framework brûke</string>
-    <string name="permdesc_useHardwareFramework">Hjirmei kin de app tagong krije ta it hardware-framework fan Grandiose.</string>
-    <string name="permlab_writeSettings">Grandiose-systeemynstellingen wizigje</string>
-    <string name="permdesc_writeSettings">Hjirmei kin de app de systeemynstellingen fan Grandiose wizigje.</string>
-    <string name="permlab_writeSecureSettings">befeiligege Grandiose-systeemynstellingen wizigje</string>
-    <string name="permdesc_writeSecureSettings">Hjirmei kin de app de befeilige systeemynstellingen fan Grandiose wizigje. Net foar gebrûk troch normale apps.</string>
+    <string name="permdesc_useHardwareFramework">Hjirmei kin de app tagong krije ta it hardware-framework fan BasedOS.</string>
+    <string name="permlab_writeSettings">BasedOS-systeemynstellingen wizigje</string>
+    <string name="permdesc_writeSettings">Hjirmei kin de app de systeemynstellingen fan BasedOS wizigje.</string>
+    <string name="permlab_writeSecureSettings">befeiligege BasedOS-systeemynstellingen wizigje</string>
+    <string name="permdesc_writeSecureSettings">Hjirmei kin de app de befeilige systeemynstellingen fan BasedOS wizigje. Net foar gebrûk troch normale apps.</string>
     <string name="profileNameDefault">Standert</string>
     <string name="profileNameWork">Wurk</string>
     <string name="profileNameHome">Thús</string>
@@ -52,9 +52,9 @@
     <string name="permlab_manageRemotePrefs">ynstellingen foar behear op ôfstân</string>
     <string name="permdesc_manageRemotePrefs">Hjirmei kin de app ynstellingen foar behear op ôfstân beheare</string>
     <string name="build_date">Build-datum</string>
-    <string name="lineage_api_level">GrandiOS-API-Nivo</string>
-    <string name="lineage_updates">GrandiOS-fernijingen</string>
-    <string name="lineage_version">GrandiOS-ferzje</string>
+    <string name="lineage_api_level">BasedOS-API-Nivo</string>
+    <string name="lineage_updates">BasedOS-fernijingen</string>
+    <string name="lineage_version">BasedOS-ferzje</string>
     <string name="lineage_vendor_security_patch">Leveransiers-befeiligingspatch-nivo</string>
     <string name="unknown">Unbekend</string>
     <string name="app_killed_message">App ôfsluten</string>

@@ -5,15 +5,15 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">Sistem GrandiOS</string>
+    <string name="lineageos_system_label">Sistem BasedOS</string>
     <string name="permlab_modifyProfiles">modifică profiluri de sistem</string>
     <string name="permdesc_modifyProfiles">Permite unei aplicații să modifice profilurile de sistem.</string>
     <string name="permlab_useHardwareFramework">folosește framework-ul hardware</string>
-    <string name="permdesc_useHardwareFramework">Permite unei aplicații să acceseze framework-ul Grandiose hardware.</string>
-    <string name="permlab_writeSettings">modifică setările de sistem Grandiose</string>
-    <string name="permdesc_writeSettings">Permite unei aplicații să modifice setările de sistem Grandiose.</string>
-    <string name="permlab_writeSecureSettings">modifică setările de siguranță de sistem Grandiose</string>
-    <string name="permdesc_writeSecureSettings">Permite unei aplicații să modifice setările de siguranță de sistem Grandiose. Nu este utilizabilă de către aplicațiile normale.</string>
+    <string name="permdesc_useHardwareFramework">Permite unei aplicații să acceseze framework-ul BasedOS hardware.</string>
+    <string name="permlab_writeSettings">modifică setările de sistem BasedOS</string>
+    <string name="permdesc_writeSettings">Permite unei aplicații să modifice setările de sistem BasedOS.</string>
+    <string name="permlab_writeSecureSettings">modifică setările de siguranță de sistem BasedOS</string>
+    <string name="permdesc_writeSecureSettings">Permite unei aplicații să modifice setările de siguranță de sistem BasedOS. Nu este utilizabilă de către aplicațiile normale.</string>
     <string name="profileNameDefault">Implicit</string>
     <string name="profileNameWork">Serviciu</string>
     <string name="profileNameHome">Acasă</string>
@@ -56,9 +56,9 @@
     <string name="permlab_manageRemotePrefs">gestionare setări la distanţă</string>
     <string name="permdesc_manageRemotePrefs">Permite unei aplicații să gestioneze setările de la distanţă</string>
     <string name="build_date">Dată de compilare</string>
-    <string name="lineage_api_level">Nivel API GrandiOS</string>
-    <string name="lineage_updates">Actualizări GrandiOS</string>
-    <string name="lineage_version">Versiune GrandiOS</string>
+    <string name="lineage_api_level">Nivel API BasedOS</string>
+    <string name="lineage_updates">Actualizări BasedOS</string>
+    <string name="lineage_version">Versiune BasedOS</string>
     <string name="lineage_vendor_security_patch">Nivelul corecției de securitate a producătorului</string>
     <string name="unknown">Necunoscut</string>
     <string name="app_killed_message">Aplicație închisă</string>

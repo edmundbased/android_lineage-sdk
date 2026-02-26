@@ -5,15 +5,15 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">GrandiOS سىستېمىسى</string>
+    <string name="lineageos_system_label">BasedOS سىستېمىسى</string>
     <string name="permlab_modifyProfiles">سىستېما سەپلەنمىسىنى ئۆزگەرتىش</string>
     <string name="permdesc_modifyProfiles">ئەپنىڭ سىستېما سەپلەنمىسىنى ئۆزگەرتىشىگە يول قويۇش.</string>
     <string name="permlab_useHardwareFramework">قاتتىق دىتال جازىسىنى ئىشلىتىش</string>
-    <string name="permdesc_useHardwareFramework">ئەپنىڭ Grandiose قاتتىق دېتال قۇرۇلمىسىنى زىيارەت قىلىشقا يو قويىدۇ.</string>
-    <string name="permlab_writeSettings">Grandiose سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
-    <string name="permdesc_writeSettings">ئەپنىڭ Grandiose سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ.</string>
-    <string name="permlab_writeSecureSettings">Grandiose بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
-    <string name="permdesc_writeSecureSettings">ئەپنىڭ Grandiose بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ. ئادەتتىكى ئەپلەرنىڭ بۇنداق ھوقۇقى بولمايدۇ.</string>
+    <string name="permdesc_useHardwareFramework">ئەپنىڭ BasedOS قاتتىق دېتال قۇرۇلمىسىنى زىيارەت قىلىشقا يو قويىدۇ.</string>
+    <string name="permlab_writeSettings">BasedOS سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
+    <string name="permdesc_writeSettings">ئەپنىڭ BasedOS سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ.</string>
+    <string name="permlab_writeSecureSettings">BasedOS بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىدۇ</string>
+    <string name="permdesc_writeSecureSettings">ئەپنىڭ BasedOS بىخەتەرلىك سىستېما تەڭشىكىنى ئۆزگەرتىشىگە يول قويىدۇ. ئادەتتىكى ئەپلەرنىڭ بۇنداق ھوقۇقى بولمايدۇ.</string>
     <string name="profileNameDefault">كۆڭۈلدىكى</string>
     <string name="profileNameWork">ئىش</string>
     <string name="profileNameHome">باش ئېكران</string>
@@ -56,9 +56,9 @@
     <string name="permlab_manageRemotePrefs">يىراقتىكى تەڭشەكنى باشقۇرۇش</string>
     <string name="permdesc_manageRemotePrefs">ئەپچنىڭ يىراقتىكى تەڭشەكنى باشقۇرۇشىغا يول قويىدۇ</string>
     <string name="build_date">ھاسىللىغان چېسلا</string>
-    <string name="lineage_api_level">GrandiOS API دەرىجىسى</string>
-    <string name="lineage_updates">GrandiOS يېڭىلاش</string>
-    <string name="lineage_version">GrandiOS نەشرى</string>
+    <string name="lineage_api_level">BasedOS API دەرىجىسى</string>
+    <string name="lineage_updates">BasedOS يېڭىلاش</string>
+    <string name="lineage_version">BasedOS نەشرى</string>
     <string name="lineage_vendor_security_patch">تەمىنلىگۈچى سودىگەر بىخەتەرلىك ياماق دەرىجىسى</string>
     <string name="unknown">يوچۇن</string>
     <string name="app_killed_message">ئەپ ئاخىرلاشتۇرۇلدى</string>

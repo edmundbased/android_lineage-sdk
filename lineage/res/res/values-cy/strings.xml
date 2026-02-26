@@ -5,15 +5,15 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageos_system_label">System GrandiOS</string>
+    <string name="lineageos_system_label">System BasedOS</string>
     <string name="permlab_modifyProfiles">addasu proffiliau system</string>
     <string name="permdesc_modifyProfiles">Mae\'n caniatáu i ap addasu proffiliau system.</string>
     <string name="permlab_useHardwareFramework">defnyddio fframwaith caledwedd</string>
-    <string name="permdesc_useHardwareFramework">Mae\'n caniatáu i ap gyrchu fframwaith caledwedd Grandiose.</string>
-    <string name="permlab_writeSettings">addasu gosodiadau system Grandiose</string>
-    <string name="permdesc_writeSettings">Mae\'n caniatáu i ap addasu gosodiadau system GrandiOS.</string>
-    <string name="permlab_writeSecureSettings">addasu gosodiadau system ddiogel Grandiose</string>
-    <string name="permdesc_writeSecureSettings">Mae\'n caniatáu i ap addasu gosodiadau system ddiogel GrandiOS. Dim i\'w ddefnyddio gan apiau arferol.</string>
+    <string name="permdesc_useHardwareFramework">Mae\'n caniatáu i ap gyrchu fframwaith caledwedd BasedOS.</string>
+    <string name="permlab_writeSettings">addasu gosodiadau system BasedOS</string>
+    <string name="permdesc_writeSettings">Mae\'n caniatáu i ap addasu gosodiadau system BasedOS.</string>
+    <string name="permlab_writeSecureSettings">addasu gosodiadau system ddiogel BasedOS</string>
+    <string name="permdesc_writeSecureSettings">Mae\'n caniatáu i ap addasu gosodiadau system ddiogel BasedOS. Dim i\'w ddefnyddio gan apiau arferol.</string>
     <string name="profileNameDefault">Rhagosodiad</string>
     <string name="profileNameWork">Gwaith</string>
     <string name="profileNameHome">Cartref</string>
@@ -52,9 +52,9 @@
     <string name="permlab_manageRemotePrefs">rheoli gosodiadau o bell</string>
     <string name="permdesc_manageRemotePrefs">Mae\'n caniatáu ap i reoli gosodiadau o bell.</string>
     <string name="build_date">Dyddiad adeiledd</string>
-    <string name="lineage_api_level">Lefel API GrandiOS</string>
-    <string name="lineage_updates">Diweddariadau GrandiOS</string>
-    <string name="lineage_version">Fersiwn GrandiOS</string>
+    <string name="lineage_api_level">Lefel API BasedOS</string>
+    <string name="lineage_updates">Diweddariadau BasedOS</string>
+    <string name="lineage_version">Fersiwn BasedOS</string>
     <string name="lineage_vendor_security_patch">Lefel patsh diogelwch gwneuthurwr</string>
     <string name="unknown">Anhysybys</string>
     <string name="app_killed_message">Lladdwyd yr ap</string>
